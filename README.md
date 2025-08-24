@@ -20,6 +20,8 @@ It also supports:
 
 ![lcd2](https://github.com/user-attachments/assets/0217db36-2466-49df-b1bf-2aa55778d2b4)
 ![lcd](https://github.com/user-attachments/assets/1a481b98-79e7-4f9b-aa1b-20703cc2c927)
+<img width="2490" height="1650" alt="circuit-diagram (9)" src="https://github.com/user-attachments/assets/649b6509-bbd8-421f-87d2-976b3dc93f21" />
+
 
 
 ---
